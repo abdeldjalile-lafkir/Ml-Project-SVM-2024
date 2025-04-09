@@ -7,12 +7,12 @@ SQL = Connection_Key.cursor()
 
 
 
-text = (" Lorem Ipsum has $ been the 0676041742 industry's standard dummy text ever since "
-        " the 1500s, ! when ¤ an unknown GARANTED printer took %¤ a galley of & PRIZE type and scrambled 0776257396 it "
-        " to 213-657-31-21-35 make https://www.kaggle.com/  a type CONGRATULATION  specimen ¤ book. It has CLICK % survived not only  @ ¤ ERROR https://jetbrains.com/ five centuries,"
+text = (" Lorem Ipsum has $ been the 0000000000 industry's standard dummy text ever since "
+        " the 1500s, ! when ¤ an unknown GARANTED printer took %¤ a galley of & PRIZE type and scrambled 0000000000 it "
+        " to 000-000-00-00-00 make https://www.kaggle.com/  a type CONGRATULATION  specimen ¤ book. It has CLICK % survived not only  @ ¤ ERROR https://jetbrains.com/ five centuries,"
         " but  FREE also / URGENT the leap into  ) DONT MISS OUT  electronic ½ typesetting,WINNER remaining essentially "
-        " containing IPHONE Lorem _ - Ipsum 0657312135 passages, HERE and _  more recently with desktop publishing "
-        " GIFT 0664610676 software £ DOLLAR like Aldus £ PageMaker ( including $ versions of https://github.com/ Lorem Ipsum. ")
+        " containing IPHONE Lorem _ - Ipsum 0000000000 passages, HERE and _  more recently with desktop publishing "
+        " GIFT 0000000000 software £ DOLLAR like Aldus £ PageMaker ( including $ versions of https://github.com/ Lorem Ipsum. ")
 
 
 
